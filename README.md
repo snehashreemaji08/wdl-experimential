@@ -28,7 +28,7 @@
             <p>The Computer Science Department focuses on teaching, research, and innovation in computing technologies.</p>
         </section>
 
-        <!-- Faculty Directory -->
+        
         <section id="faculty">
             <h2>Faculty Directory</h2>
 
@@ -39,7 +39,7 @@
             </article>
 
             <article>
-                <h3>Prof. B. Kumar</h3>
+                <h3>Prof. B. khanna</h3>
                 <p>Position: Associate Professor</p>
                 <p>Specialization: Data Science</p>
             </article>
@@ -96,7 +96,7 @@
                     <td>Tuesday</td>
                     <td>AI</td>
                     <td>Web Tech</td>
-                    <td>Software Engg</td>
+                    <td>WDL</td>
                     <td>Break</td>
                 </tr>
 
