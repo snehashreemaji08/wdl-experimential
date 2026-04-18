@@ -2,7 +2,7 @@
 !DOCTYPE html>
 <html>
 <head>
-    <title>Computer Science Department</title>
+    <title>CS Department</title>
 </head>
 
 <body>
