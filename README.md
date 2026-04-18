@@ -129,9 +129,7 @@
     </main>
 
     
-    <footer>
-        <p>© 2026 Computer Science Department</p>
-    </footer>
+    
 
 </body>
 </html>
