@@ -15,7 +15,7 @@
     <nav>
         <a href="#home">Home</a> |
         <a href="#faculty">Faculty</a> |
-        <a href="#about">Research</a> |
+        <a href="#about">About</a> |
         <a href="#timetable">Timetable</a>
     </nav>
 
