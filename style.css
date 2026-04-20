@@ -13,8 +13,8 @@ body {
 
 
 header {
-    background: #8a1538; 
-    color: #fff;
+    background: linear-gradient (135deg, #1f3c88, #39a0ed); 
+    color: white;
     padding: 20px;
     text-align: center;
 }
