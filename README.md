@@ -111,10 +111,10 @@
 
                 <tr>
                     <td>Thursday</td>
-                    <td>Web Tech</td>
-                    <td>Operating System</td>
-                    <td>DBMS</td>
-                    <td>Break</td>
+                    <td>Web Development lab</td>
+                    <td>Sports</td>
+                    <td>Electrical</td>
+                    <td>SMP lab</td>
                 </tr>
 
                 <tr>
