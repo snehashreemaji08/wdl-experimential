@@ -119,10 +119,10 @@
 
                 <tr>
                     <td>Friday</td>
-                    <td>Software Engg</td>
-                    <td>Data Structures</td>
-                    <td>AI</td>
-                    <td>Break</td>
+                    <td>ICLA</td>
+                    <td>Club hour</td>
+                    <td>Web development lab</td>
+                    <td>LLc</td>
                 </tr>
             </table>
         </section>
