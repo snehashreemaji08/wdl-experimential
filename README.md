@@ -79,26 +79,26 @@
             <table border="1">
                 <tr>
                     <th>Day</th>
-                    <th>9-10</th>
-                    <th>10-11</th>
-                    <th>11-12</th>
-                    <th>12-1</th>
+                    <th>10:30-!!:30</th>
+                    <th>11:30-1:30</th>
+                    <th>2:30-3:30</th>
+                    <th>3:30-5:30</th>
                 </tr>
 
                 <tr>
                     <td>Monday</td>
-                    <td>Data Structures</td>
-                    <td>DBMS</td>
-                    <td>Operating System</td>
-                    <td>Break</td>
+                    <td>ICLA</td>
+                    <td>CE lab</td>
+                    <td>Chemistry</td>
+                    <td>EC lab</td>
                 </tr>
 
                 <tr>
                     <td>Tuesday</td>
-                    <td>AI</td>
-                    <td>Web Tech</td>
-                    <td>WDL</td>
-                    <td>Break</td>
+                    <td>Electrical</td>
+                    <td>Self learning</td>
+                    <td>ICLA</td>
+                    <td>CE</td>
                 </tr>
 
                 <tr>
