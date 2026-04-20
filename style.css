@@ -21,7 +21,10 @@ header {
 
 
 nav {
-    background: #333;
+    background: #0d1b2a;
+    position: sticky;
+    padding : 25px;
+    text-align: center;
 }
 
 nav ul {
