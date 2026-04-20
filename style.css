@@ -100,9 +100,9 @@ section h2 {
 }
 
 .research-card {
-    background: #fff;
+    background: #1e293b;
     padding: 20px;
-    border-left: 5px solid #8a1538;
+    border-left: 5px solid #1e293b;
     border-radius: 8px;
     transition: transform 0.3s;
 }
