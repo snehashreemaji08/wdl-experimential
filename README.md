@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>CS Department</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
