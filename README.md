@@ -40,9 +40,9 @@
             </article>
 
             <article>
-                <h3>Prof. B. khanna</h3>
+                <h3>Prof. S . Kemdeo</h3>
                 <p>Position: Associate Professor</p>
-                <p>Specialization: Data Science</p>
+                <p>Specialization: Chemistry</p>
             </article>
 
             <article>
