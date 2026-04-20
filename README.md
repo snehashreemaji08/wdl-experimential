@@ -67,8 +67,8 @@
             </article>
 
             <article>
-                <h3>Data Science</h3>
-                <p>Big data analytics, data mining, and visualization techniques.</p>
+                <h3>Web Development</h3>
+                <p>Focus on learning basic html and css and basic knowledge of API using Javascript.</p>
             </article>
         </section>
 
