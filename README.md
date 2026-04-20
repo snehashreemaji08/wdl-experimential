@@ -103,10 +103,10 @@
 
                 <tr>
                     <td>Wednesday</td>
-                    <td>DBMS</td>
-                    <td>AI</td>
-                    <td>Data Structures</td>
-                    <td>Break</td>
+                    <td>SMP</td>
+                    <td>Electrical Lab</td>
+                    <td>ICLA</td>
+                    <td>Miscellenious</td>
                 </tr>
 
                 <tr>
