@@ -83,24 +83,7 @@ table th {
     background: #38bdf8;
     color: #020617;
 }
-
-
-footer {
-    background: #020617;
-    color: #fff;
-    text-align: center;
-    padding: 15px;
-    margin-top: 20px;
-}
-
-
-
-
-
-
-
-
-    table th, table td {
+ table th, table td {
         padding: 6px;
         font-size: 12px;
     }
