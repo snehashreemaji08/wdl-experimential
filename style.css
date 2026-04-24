@@ -66,14 +66,15 @@ section h2 {
     color: #38bdf8;
 }
     .faculty-container{
-         display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
-    gap: 20px;
+         display: flex;
+ justify-content: center;
+    margin: 40px;
 }
 
 .faculty-card {
     background: white;
-    padding: 15px;
+    padding: 20px;
+    width: 25px;
     border-radius: 10px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
