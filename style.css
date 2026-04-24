@@ -58,7 +58,7 @@ main {
     padding: 30px;
 }
 
-/* SECTION */
+
 section {
     margin-bottom: 40px;
 }
@@ -73,6 +73,7 @@ section h2 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 20px;
+    color: #38bdf8;
 }
 
 .faculty-card {
